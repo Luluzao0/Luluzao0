@@ -39,9 +39,9 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-43853d?style=flat-square&logo=PHP&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-43853d?style=flat-square&logo=Linux&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-43853d?style=flat-square&logo=C&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-43853d?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-43853d?style=flat-square&logo=linux&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-43853d?style=flat-square&logo=c&logoColor=white" />
 
 
 
