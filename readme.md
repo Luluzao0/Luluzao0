@@ -4,14 +4,6 @@
 [![Medium Badge](https://img.shields.io/badge/-@1LgL-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@1LgL)](https://medium.com/@1LgL)
 [![Website Badge](https://img.shields.io/badge/-luisaodev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://luisaodev.tech/)](https://luisaodev.tech/)
 
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luluzao0&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <br />
-  <small>Fan of JavaScript, but GitHub thinks it's PHP :\ </small>
-  <br />
-  <br />
-</div>
-
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
