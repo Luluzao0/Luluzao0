@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner animado com gradiente -->
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Luis%20Henrique&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Code%20Enthusiast&descAlignY=60&descAlign=50"/>
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Luis%Guilherme&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Code%20Enthusiast&descAlignY=60&descAlign=50"/>
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Luis+%F0%9F%91%8B;Full-Stack+Developer;Problem+Solver;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
