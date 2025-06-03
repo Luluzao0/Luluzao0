@@ -114,13 +114,6 @@ while(coding) {
 
 <div align="center">
 
-<!-- WakaTime Stats -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=luluzao0&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&layout=compact"/>
-
-<!-- Coding Time -->
-<img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" alt="Total time coded since joining WakaTime"/>
-
-</div>
 
 ---
 
@@ -149,7 +142,7 @@ while(coding) {
 <!-- Blog post feed -->
 <div align="center">
 
-[![Medium](https://github-readme-medium.vercel.app/?username=1LgL&limit=3&theme=tokyonight)](https://medium.com/@1LgL)
+[![Medium](https://medium.com/@1LgL/iniciante-na-programa%C3%A7%C3%A3o-siga-essas-dicas-31df215dffa6)](https://medium.com/@1LgL)
 
 </div>
 
@@ -159,7 +152,7 @@ while(coding) {
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=rhe9ktnx0nxw0vt0ifpdt2vu7&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=rhe9ktnx0nxw0vt0ifpdt2vu7&redirect=true)
 
 </div>
 
@@ -168,12 +161,11 @@ while(coding) {
 ## 💻 Workspace Setup
 
 ```yaml
-OS: Ubuntu 22.04 LTS
-Editor: VS Code with Vim keybindings
+OS: W11
+Editor: VS Code
 Terminal: Zsh with Oh My Zsh
 Browser: Chrome Developer Edition
 Coffee: ☕ Always brewing
-Music: 🎵 Lo-fi hip hop radio
 ```
 
 ---
@@ -183,9 +175,7 @@ Music: 🎵 Lo-fi hip hop radio
 <div align="center">
 
 ```
-🎮 Gamer in free time          🍕 Pizza is life
 📚 Love reading tech blogs     🏃‍♂️ Running enthusiast
-🎸 Learning guitar             🌱 Plant parent
 ```
 
 </div>
