@@ -68,9 +68,9 @@ const luis = {
 
 <div align="center">
   
-![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1LgL&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luluzao0&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1LgL&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luluzao0&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
