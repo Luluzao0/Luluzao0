@@ -82,7 +82,7 @@ while(coding) {
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luluzao0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luluzao0&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
+<img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=Luluzao0)](https://git.io/streak-stats)" alt="GitHub Streak"/>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=luluzao0&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="GitHub Activity Graph"/>
