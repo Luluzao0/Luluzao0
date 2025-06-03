@@ -99,10 +99,10 @@ while(coding) {
 <div align="center">
 
 <!-- Project Cards -->
-<a href="https://github.com/luluzao0/projeto1">
+<a href="https://github.com/Luluzao0/fipy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luluzao0&repo=projeto1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" />
 </a>
-<a href="https://github.com/luluzao0/projeto2">
+<a href="https://github.com/Luluzao0/PressureApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luluzao0&repo=projeto2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" />
 </a>
 
