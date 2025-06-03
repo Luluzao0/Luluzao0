@@ -16,12 +16,9 @@
 
 ```javascript
 const luis = {
-    pronouns: "he/him",
     location: "Somewhere writing code ☕",
     currentFocus: "Building awesome web experiences",
     askMeAbout: ["Web Development", "System Architecture", "Open Source"],
-    funFact: "I debug with console.log and I'm not ashamed! 🐛",
-    motto: "Code is poetry written in logic"
 };
 ```
 
@@ -121,7 +118,7 @@ I'm always excited to collaborate on interesting projects or just chat about tec
 
 **Thanks for visiting! ⭐ Star some repos if you find them interesting!**
 
-![Visitor Count](https://profile-counter.glitch.me/1LgL/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/luluzao0/count.svg)
 
 </div>
 
@@ -147,15 +144,3 @@ I'm always excited to collaborate on interesting projects or just chat about tec
 
 </details>
 ```
-
-Agora você pode copiar este código e colar diretamente no seu arquivo `README.md` no GitHub! 
-
-**O que mudou:**
-- ✨ Design mais moderno e organizado
-- 🎨 Badges com estilo `for-the-badge` (mais bonitos)
-- 📊 Estatísticas do GitHub integradas
-- 🏆 Seção de conquistas
-- 🎭 Código interativo mostrando sua personalidade
-- 🥚 Easter egg escondido para engajamento
-- 📱 Layout responsivo e bem estruturado
-
