@@ -6,14 +6,12 @@ Full-Stack Developer based in São Luís, Brazil. I build web platforms for heal
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [Leitor de Gabaritos](https://github.com/Luluzao0/visao_computacional-p1) · [demo](https://computervision-gabarito.streamlit.app/) | Grades answer sheets from a phone photo, stores results in SQLite and exports CSV | Python, OpenCV, Streamlit |
-| [Detecção de Sono e Fadiga](https://github.com/Luluzao0/deteccao-sono-fadiga) | Drowsiness (EAR) and yawn-fatigue (MAR) detection for desktop and web | Python, MediaPipe |
-| [TSMiniCompiler](https://github.com/Luluzao0/tsminicompiler) · [demo](https://tsminicompiler.vercel.app) | Educational mini compiler with an interactive Bril pipeline | TypeScript, React, Vite |
-| [CardioTrack Portal](https://github.com/Luluzao0/cardiotrack-portal) · [demo](https://cardiotrack-portal.vercel.app) | Cardiology tracking portal | TypeScript, React |
-| [UEMA Digital Repository](https://github.com/Luluzao0/uema-digital-repo) · [demo](https://repo-uema.vercel.app) | Academic digital repository for UEMA | TypeScript, PostgreSQL |
-| [HomeAI](https://github.com/Luluzao0/HomeAI) | House recommender using content-based, collaborative filtering and k-NN | Python, scikit-learn |
+- **Leitor de Gabaritos** — answer sheet grading from a phone photo
+- **Detecção de Sono e Fadiga** — drowsiness and fatigue detection
+- **TSMiniCompiler** — educational mini compiler
+- **CardioTrack Portal** — cardiology tracking portal
+- **UEMA Digital Repository** — academic digital repository
+- **HomeAI** — house recommendation system
 
 ## Tech Stack
 
